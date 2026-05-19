@@ -1,0 +1,7 @@
+{
+    "todo": {
+        "titleNotEmpty": "Tiêu đề không được để trống",
+        "todoNotFound": "Không tìm thấy công việc",
+        "todoRemoved": "Đã xóa công việc"
+    }
+}

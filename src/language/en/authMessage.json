@@ -1,0 +1,8 @@
+{
+    "auth": {
+        "emailNotValid": "Email not valid",
+        "passwordMustBe": "Password must be at least 6 characters long",
+        "nameNotEmpty": "Name not be empty",
+        "passwordNotEmpty": "Password not be empty"
+    }
+}

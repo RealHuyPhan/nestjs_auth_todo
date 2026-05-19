@@ -1,0 +1,7 @@
+{
+    "todo": {
+        "titleNotEmpty": "Title must not be empty",
+        "todoNotFound": "Todo not found",
+        "todoRemoved": "Todo removed"
+    }
+}

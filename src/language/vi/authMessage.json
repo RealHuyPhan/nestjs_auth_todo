@@ -1,0 +1,8 @@
+{
+    "auth": {
+        "emailNotValid": "Email không hợp lệ",
+        "passwordMustBe": "Mật khẩu phải có ít nhất 6 ký tự",
+        "nameNotEmpty": "Tên không được để trống",
+        "passwordNotEmpty": "Mật khẩu không được để trống"
+    }
+}
